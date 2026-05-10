@@ -70,7 +70,8 @@ const submitForm = async () => {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f5f5f5;
+  background: url('./image/2219a8f68c13c3c7.webp') no-repeat center center fixed;
+  background-size: cover;
 }
 
 .login-form {
